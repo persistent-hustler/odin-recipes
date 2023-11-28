@@ -6,10 +6,18 @@
     background-color: rgb(186, 153, 119);
 }
 
+.chicken-pakoda {
+    background-color: rgb(236, 106, 106);
+}
+
 h1 {
     text-align: center;
 }
 
 a {
     margin-left: 10px;
+}
+
+img {
+    border-radius: 15%;
 }
