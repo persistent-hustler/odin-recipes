@@ -2,14 +2,6 @@
     margin-left: 20px;
 }
 
-.homepage {
-    background-color: rgb(186, 153, 119);
-}
-
-.chicken-pakoda {
-    background-color: rgb(236, 106, 106);
-}
-
 h1 {
     text-align: center;
 }
@@ -20,4 +12,20 @@ a {
 
 img {
     border-radius: 15%;
+}
+
+.homepage {
+    background-color: rgb(186, 153, 119);
+}
+
+.chicken-pakoda {
+    background-color: rgb(236, 106, 106);
+}
+
+.cycle-kova {
+    background-color: rgb(248, 218, 178);
+}
+
+.vaggarani-mirchi {
+    background-color: rgb(246, 247, 172);
 }
