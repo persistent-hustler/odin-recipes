@@ -1,0 +1,15 @@
+* {
+    margin-left: 20px;
+}
+
+.homepage {
+    background-color: rgb(186, 153, 119);
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    margin-left: 10px;
+}
