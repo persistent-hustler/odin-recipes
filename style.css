@@ -1,3 +1,5 @@
+/* Common for all */
+
 * {
     margin-left: 20px;
 }
@@ -14,9 +16,38 @@ img {
     border-radius: 15%;
 }
 
+/* Homepage specific */
+
 .homepage {
     background-color: rgb(255, 218, 189);
 }
+
+.item-list {
+    background-color: antiquewhite;
+    padding: 40px;
+}
+
+.item {
+    font-size: 24px;
+    width: 500px;
+    margin: 20px auto;
+    background-color:darkgray;
+    padding: 20px;
+}
+
+.vaggarani-link {
+    color: rgb(254, 255, 198);
+}
+
+.kova-link {
+    color: rgb(248, 218, 178);
+}
+
+.pakoda-link {
+    color: rgb(255, 189, 189);
+}
+
+/* Recipe pages specific */
 
 .chicken-pakoda {
     background-color: rgb(255, 189, 189);
